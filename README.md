@@ -20,4 +20,4 @@
   <a href="https://www.linkedin.com/in/n%C3%A1gila-duarte-19582928a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
 
-Sou uma profissional apaixonada por tecnologia, dedicada a explorar e dominar as últimas inovações do setor. 
+Apaixonada por tecnologia!
