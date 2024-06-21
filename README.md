@@ -1,19 +1,21 @@
 ## Olá eu sou Nagila Duarte 👋
 
-- 💻 Hoje trabalho com desenvolvimento Full Stack
+- 📊 Hoje trabalho com Análise de Dados
 
 ![Nagila GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagiladuarte&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nagila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nagila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Nagila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nagila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nagila-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="Nagila-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">     
+  <img align="center" alt="Nagila-SQLServer" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
+  <img align="center" alt="Nagila-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Nagila-SQL" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/sql.png">
+  <img align="center" alt="Nagila-ETL" height="30" width="40" src="https://img.icons8.com/external-wanicon-lineal-wanicon/64/000000/external-etl-data-science-wanicon-lineal-wanicon.png">
+  <img align="center" alt="Nagila-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+  <img align="center" alt="Nagila-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Nagila-VisualStudio" height="30" width="40" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">
+  <img align="center" alt="Nagila-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
-  ##
+##
 
 <div> 
   <a href = "mailto:nagiladuarte93@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
