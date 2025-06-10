@@ -34,6 +34,6 @@ Versioning & CI/CD:<br>
 ## 📊 GitHub Stats:
 <div>
 <a href="https://github.com/Nagiladuarte">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagiladuarte&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nagiladuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagiladuarte&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
